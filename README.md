@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
+#📊 My GitHub Stats
+!SUUUUUUUJUNG's GitHub stats
+![SUUUUUUUJUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUUUUUUUJUNG&show_icons=true&theme=radical)
+<br>
+##🚀 Most Used Languages<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUUUUUUUJUNG&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SUUUUUUUJUNG/SUUUUUUUJUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
